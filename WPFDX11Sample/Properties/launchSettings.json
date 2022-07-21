@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WPFDX11Sample": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
